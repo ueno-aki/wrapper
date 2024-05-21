@@ -1,0 +1,6 @@
+[bedrock_server]
+entry_path = "./bds"
+
+[node_js_script]
+entry_path = "./"
+main_module = "index.js"
